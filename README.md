@@ -12,7 +12,7 @@ RemindMe2 is an Android application designed to help users set and manage remind
 - Offline functionality
 
 ## Tech Stack
-- **Programming Language:** Kotlin/Java
+- **Programming Language:** Java
 - **Framework:** Android SDK
 - **Build System:** Gradle (Kotlin DSL)
 - **Database:** Room Database
@@ -37,4 +37,4 @@ RemindMe2 is an Android application designed to help users set and manage remind
 
 ## Author Information
 Debashree Ray
-Connect with me on [LinkedIn](https://www.linkedin.com/in/debashree-ray-83476a209/)).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/debashree-ray-83476a209/).
