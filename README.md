@@ -1,7 +1,7 @@
 # RemindMe – A Reminder Android Application
 
 ## Description
-RemindMe2 is an Android application designed to help users set and manage reminders efficiently. The app allows users to create, update, and delete reminders with customizable notification settings.
+RemindMe is an Android application designed to help users set and manage reminders efficiently. The app allows users to create, update, and delete reminders with customizable notification settings.
 
 ## Features
 - Create, update, and delete reminders
