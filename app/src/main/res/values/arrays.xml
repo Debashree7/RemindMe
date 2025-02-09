@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="schedule_options">
+        <item>Once a day</item>
+        <item>2 times a day</item>
+        <item>4 times a day</item>
+    </string-array>
+</resources>
