@@ -21,7 +21,7 @@ RemindMe2 is an Android application designed to help users set and manage remind
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone [repository URL]
+   git clone [[repository URL]](https://github.com/Debashree7/RemindMe/)
    ```
 2. Open the project in Android Studio
 3. Sync Gradle and build the project
